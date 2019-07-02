@@ -35,3 +35,7 @@ dist/
 /datasets
 /models
 /output
+/inference
+
+# temporary results
+cache

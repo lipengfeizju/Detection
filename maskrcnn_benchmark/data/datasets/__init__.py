@@ -5,5 +5,5 @@ from .concat_dataset import ConcatDataset
 
 
 __all__ = ["COCODataset", "ConcatDataset", "PascalVOCDataset"]
-if isinstance(dataset, datasets.MyDataset):
-    return coco_evaluation(**args)
+# if isinstance(dataset, datasets.MyDataset):
+#     return coco_evaluation(**args)
